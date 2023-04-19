@@ -1,7 +1,7 @@
 # firebase-diary
 
-built with expo using eas
-setup with **react native seoul kakao login react native firebase**
+built with expo using eas  
+setup with **react native seoul kakao login** and **react native firebase**
 
 ### how to run project
 run project on your own infra 
